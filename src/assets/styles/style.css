@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: local("Josefin Sans"),
+    url(../fonts/JosefinSans-Bold.ttf) format("truetype"),
+    url(../fonts/Roboto-Regular.ttf) format("truetype");
+}
